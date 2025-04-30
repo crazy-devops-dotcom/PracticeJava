@@ -6,6 +6,7 @@ public class HelloTest {
 		// TODO Auto-generated method stub
 		System.out.println("Live in the jungle");
 		int a = 10;
+		int b = 20;
 
 	}
 
