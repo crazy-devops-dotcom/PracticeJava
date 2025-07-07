@@ -7,7 +7,7 @@ public class HelloTest {
 		System.out.println("Live in the jungle");
 		int a = 10;
 		int b = 20;
-		String name = "Rana";
+		String name = "Rana Nairu";
 		String comments = "Hi everyone!";
 		System.out.println(name+comments);
 
